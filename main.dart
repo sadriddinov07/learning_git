@@ -1,4 +1,5 @@
 
 void main() {
-	print("Main"); 
+  print("Main");
+  print("CHANGED");
 }
